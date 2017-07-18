@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "user": "root",
+      "CPU": 40,
+      "MEMORY": 60,
+      "TIME": 23123,
+      "Command": "fuuck"
+
+    },
+    {
+      "user": "Alex",
+      "CPU": 44,
+      "MEMORY": 66,
+      "TIME": 34234234,
+      "Command": "otin"
+    }
+  ]
+}
